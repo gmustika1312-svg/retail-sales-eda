@@ -1,7 +1,7 @@
 # Online Retail Transaction — Exploratory Data Analysis
 
 <p align="center">
-  <img src="Cover.png" width="100%">
+  <img src="src/Cover.png" width="100%">
 </p>
 
 ## Project Overview
