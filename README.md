@@ -47,6 +47,14 @@ Investigate revenue patterns through five analytical questions.
 - The **United Kingdom contributes 81.15% of Premium revenue**, indicating a high concentration in one market.
 - Premium revenue fluctuates throughout 2011 and reaches its highest point in **November at 9,983.69**, following stronger performance from August to November.
 
+## Key Visualizations
+
+<p align="center">
+  <img src="src/kontribusi_segmen.png" width="32%">
+  <img src="src/jumlah_transaksi_vs_median.png" width="32%">
+  <img src="src/trend_segmen_premium_2011.png" width="32%">
+</p>
+
 ## Recommendations
 
 - Retain Premium customers and encourage other segments to increase transaction value.
