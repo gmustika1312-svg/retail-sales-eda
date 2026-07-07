@@ -7,7 +7,7 @@
 
 ## Project Context
 
-Online retail transaction data provides valuable information about purchasing activity, product performance, and revenue contribution. This project explores e-commerce transaction data to understand the patterns behind revenue performance and identify key factors that contribute to higher transaction value.
+Online retail transaction data provides valuable information about purchasing activity, product performance, and revenue contribution. This project explores e-commerce transaction data to identify revenue patterns and examine the key factors associated with revenue performance across transaction segments.
 
 ## Problem
 
@@ -21,6 +21,7 @@ A high number of transactions does not necessarily generate the highest revenue.
 ## Analysis Workflow
 
 The EDA workflow was conducted to understand the transaction data, prepare relevant features, and explore revenue patterns through a structured analysis process.
+
 **01 — Data Understanding**  
 Explore the dataset and understand its characteristics.
 
@@ -39,6 +40,14 @@ Classify transactions into four value-based segments.
 **06 — Analysis Questions**  
 Investigate revenue patterns through five analytical questions.
 
+## Analysis Questions
+
+1. Which transaction segment contributes the most to total revenue?
+2. Which products contribute the most revenue within the Premium segment?
+3. Is the high revenue of the Premium segment driven by transaction frequency or transaction value?
+4. Which countries contribute the most revenue within the Premium segment?
+5. How does Premium segment revenue trend throughout 2011?
+
 ## Key Findings
 
 - The **Premium segment contributes 52.79% of total revenue**, making it the largest revenue contributor.
@@ -50,14 +59,14 @@ Investigate revenue patterns through five analytical questions.
 ## Key Visualizations
 
 <p align="center">
-  <img src="src/kontribusi_segmen.png" width="32%">
-  <img src="src/jumlah_transaksi_vs_median.png" width="32%">
-  <img src="src/trend_segmen_premium_2011.png" width="32%">
+  <img src="./src/Kontribusi%20segmen.png" width="32%">
+  <img src="./src/Jumlah%20Transaksi%20vs%20Median%20Nilai%20Transaksi.png" width="32%">
+  <img src="./src/Trend%20segmen%20premium%202011.png" width="32%">
 </p>
 
 ## Recommendations
 
-- Retain Premium customers and encourage other segments to increase transaction value.
+- Encourage high-value transactions within the Premium segment and increase transaction values across other segments.
 - Maintain the availability of key products and apply product bundling to increase purchase value.
 - Develop Premium segment market opportunities in the Netherlands, EIRE, and Germany.
 - Align promotional, inventory, and sales planning with increased purchasing activity from August to November.
