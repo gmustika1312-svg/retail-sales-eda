@@ -1,6 +1,6 @@
 # Online Retail Transaction — Exploratory Data Analysis
 
-![Project Cover](images/cover.jpg)
+![Project Cover](Teal Yellow Modern Group Project Presentation.png)
 
 ## Project Overview
 
