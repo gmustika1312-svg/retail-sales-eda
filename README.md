@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/cover.png" width="100%">
+</p>
+
 # Online Retail Transaction — Exploratory Data Analysis
 
 ![Project Cover](Teal Yellow Modern Group Project Presentation.png)
